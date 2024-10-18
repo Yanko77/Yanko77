@@ -1,10 +1,12 @@
 # Hey, welcome to my github profile ! ⚔️
 ### Me ?
  -   I'm **Yanko**, I'm **17** and i'm casually **learning code** because I've nothing better to do. 🙃
+ -   Regional Winner of the #TrophéesNSI2024 with [PokemonMG](https://github.com/Yanko77/PokemonMG)
+ -   Student in L1 Math-Info in Lille
+ -   
  -   🔥🔥🔥 **Currently working on** → [PokemonMG](https://github.com/Yanko77/PokemonMG) 🔥🔥🔥
 ### What I like ?
 - **Sushi** 🍣
-
 **Sushi** 🍣
 - **Sushi** 🍣
 ### How to reach me ?
