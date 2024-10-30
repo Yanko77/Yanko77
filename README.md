@@ -4,7 +4,7 @@
  -   Regional Winner of the #TrophéesNSI2024 with [PokemonMG](https://github.com/Yanko77/PokemonMG)
  -   Student in L1 Math-Info in Lille
  -   
- -   🔥🔥🔥 **Currently working on** → [PokemonMG](https://github.com/Yanko77/PokemonMG) 🔥🔥🔥
+ -   🔥🔥🔥 **Currently working on** → [Agonn](https://github.com/Yanko77/Agonn) 🔥🔥🔥
 ### What I like ?
 - **Sushi** 🍣
 **Sushi** 🍣
