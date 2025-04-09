@@ -1,5 +1,3 @@
-<link href="style.css" rel="stylesheet"/>
-
 # Hey, welcome to my github profile ! ⚔️
 
 ### Me ?
