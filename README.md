@@ -3,9 +3,7 @@
 ### Me ?
  -   I'm **Yanko**, **18**.
  -   #TrophéesNSI2024 Regional Winner with [PokemonMG](https://github.com/Yanko77/PokemonMG)
- -   Student in L1 Math-Info in Lille
-  
- -   🔥🔥🔥 **Currently working on** → [Agonn](https://github.com/Yanko77/Agonn) 🔥🔥🔥
+ -   Student in L2 Info in Lille
 
 ### Other accounts
 [<img align="center" alt="Discord" width="22px" src="https://simpleicons.org/icons/gitlab.svg" /> GITLAB](https://gitlab.univ-lille.fr/yanko.lemoine.etu)
