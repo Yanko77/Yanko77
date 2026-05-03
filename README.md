@@ -44,7 +44,7 @@ Feel free to contact me by mail : contact@yankodev.fr
 
 ## 🚀 Featured Projects
 - **[PokemonMG](https://github.com/Yanko77/PokemonMG)**
-- **[TowerDefense](https://github.com/Yanko77/PokemonMG)** (L2 Project)
+- **[TowerDefense](https://github.com/Yanko77/towerdefense)** (L2 Project)
 ---
 
 ## 👋 See you around!
